@@ -17,8 +17,8 @@ public class Employee {
                 this.email = email;
                 this.numberphone = numberphone;
                 this.salary = salary;
-                this.age = age;
-        }
+                this.age = age;}
+
         // 3. Внутри класса «Сотрудник» написать метод,
         // который выводит информацию об объекте в консоль.
         void printInfo()
